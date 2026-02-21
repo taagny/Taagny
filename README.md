@@ -18,7 +18,6 @@
 
 ## 🌈 Sobre mim
 
-diff
 + 🔥 Desenvolvedor em constante evolução
 + 🎨 Criando projetos criativos e funcionais
 + 🌟 Transformando café em código desde sempre
@@ -45,9 +44,6 @@ diff
 <div align="center"> <a href="https://github.com/Taagny"> <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/> </a> </div><br><div align="center"> <img src="https://komarev.com/ghpvc/?username=Taagny&color=FF6B6B&style=for-the-badge&label=✨+VISITAS"/> </div>
 
 ---
-
-🌟 "Código colorido é código feliz!" 🌟
-</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer"/> </div> ```
   
   **⭐ Se gostou de algum projeto, deixe uma star!**
 </div>
