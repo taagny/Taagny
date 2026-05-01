@@ -16,12 +16,12 @@
 
 <br>
 
-## 🌈 Sobre mim
+## 🤓 Sobre mim
 
-🔥 Desenvolvedor em constante evolução  
-🎨 Criando projetos criativos e funcionais  
-🌟 Transformando café em código desde sempre  
-🚀 Próximo passo: Dominar o universo do código  
+- 🎓 Estudante de Ciência da Computação  
+- 🚀 Foco em desenvolvimento Full Stack  
+- 🧠 Interesse em arquitetura, boas práticas e escalabilidade  
+- 📈 Sempre evoluindo tecnicamente  
 
 <br>
 
