@@ -1,20 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Taagny%20Augusto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Taagny%20Augusto&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <h2>Desenvolvedor Full Stack em formação</h2>
-  <p>Focado em criar aplicações modernas, escaláveis e bem estruturadas.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=👋+Olá%2C+seja+bem-vindo!;💻+Desenvolvedor+Full+Stack;🚀+Apaixonado+por+tecnologia;✨+Sempre+evoluindo" />
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🌟 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação  
-- 🚀 Foco em desenvolvimento Full Stack  
-- 🧠 Interesse em arquitetura, boas práticas e escalabilidade  
-- 📈 Sempre evoluindo tecnicamente  
+🔥 Desenvolvedor em constante evolução  
+🎓 Estudante de Ciência da Computação  
+💡 Foco em aplicações modernas e escaláveis  
+🚀 Transformando ideias em soluções digitais  
 
 ---
 
@@ -50,25 +49,13 @@
 
 ---
 
-## 🔥 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taagny&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-## 📫 Contato
+## 📫 Conecte-se comigo
 
 <div align="center">
   <a href="mailto:taagnyaugusto3214@email.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/seulink">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
----
-
-⭐ Se gostou de algum projeto, deixe uma star!
