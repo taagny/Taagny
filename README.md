@@ -30,15 +30,15 @@
 ## 🎨 Minhas Tecnologias
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
-@@ -38,54 +30,36 @@
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white"/>
-
 </div>
 
 <br>
